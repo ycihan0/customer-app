@@ -1,0 +1,17 @@
+.customer-form {
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 10px;
+    margin-bottom: 20px; */
+  }
+  
+  .customer-input {
+ 
+  }
+  
+  .customer-input:focus {
+    border-color: #3c4fe0;
+    box-shadow: 0 1px 0 0 rgb(35 38 59 / 5%);
+  }
+  
